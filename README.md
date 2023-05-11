@@ -1,5 +1,9 @@
+# 👋 Hi, my name is Danil!
+<br>
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a navigator for the university premises with my Quorus team<br>👯 I'm ready for any collaboration on the Web<br>🌱 Now I continue to study frontend technologies such as React and Redux, I'm learning webpack and Vite, and also trying my hand at writing a simple backend apps<br>💬 Write to me at any time, I will answer as soon as possible! <br>
+<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +16,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gribanov-Danil&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gribanov-Danil&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
