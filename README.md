@@ -2,7 +2,13 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on a navigator for the university premises with my Quorus team<br>👯 I'm ready for any collaboration on the Web<br>🌱 Now I continue to study frontend technologies such as React and Redux, I'm learning webpack and Vite, and also trying my hand at writing a simple backend apps<br>💬 Write to me at any time, I will answer as soon as possible! <br>
+🔭 I’m currently working on a navigator for the university premises with my Quorus team <br>
+<br>
+👯 I'm ready for any collaboration on the Web <br>
+<br>
+🌱 Now I continue to study frontend technologies such as React and Redux, I'm learning webpack and Vite, and also trying my hand at writing a simple backend apps <br>
+<br>
+💬 Write to me at any time, I will answer as soon as possible! <br>
 <br>
 
 
