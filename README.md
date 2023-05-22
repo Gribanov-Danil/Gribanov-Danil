@@ -10,6 +10,8 @@
 <br>
 💬 Write to me at any time, I will answer as soon as possible! <br>
 <br>
+⚡ Interesting fact: I like to play chess, have a second category <br>
+<br>
 
 
 ## 🌐 Socials:
