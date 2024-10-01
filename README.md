@@ -2,7 +2,7 @@
 <br>
 
 # 💫 About Me:
-🔭 Iэm currently working as a frontend developer at T1 Innotech <br>
+🔭 I'm currently working as a frontend developer at T1 Innotech <br>
 <br>
 👯 I'm ready for any collaboration on the Web <br>
 <br>
